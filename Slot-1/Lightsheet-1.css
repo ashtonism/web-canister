@@ -1,0 +1,51 @@
+/* Lightsheet-1 
+	all of this, the layout of the website, the design, and the code is protected by copyright. But feel free to play around with it :) */
+html{
+	display: inline-block;
+}
+/* this is my favorite part! hello, css... */
+.head {
+	/* font styling */
+		font-family: "helvetica neue", helvetica, sans-serif;
+		font-size:  24pt;
+		font-weight:  400;
+		color: rgba(255, 255, 255, 0.8);
+	/**/	
+	/* spacing */
+		padding-top: 	10px;
+		padding-left:	15px;
+		padding-right: 	15px;
+		padding-bottom:	15px;
+		
+		border: 4px solid /*rgba(0, 255, 230, 0.8)*/ rgba(0, 255, 230, 0.8) ;
+		
+		border-radius: 14px;
+		 
+		margin-top: 	2px;
+		margin-left: 	2px;
+		margin-right: 	inherit;
+		margin-bottom: 	2px,;
+}
+.box-element{
+	
+}
+.subtitle {
+	font-family: "helvetica neue", helvetica, sans-serif;
+	font-size: 	large;
+	font-weight:500;
+	color:		rgba(0, 255, 230, 0.5);
+	text-decoration:  ;
+	align-content: center;
+}
+.xbin{
+	color: rgba(119, 245, 205, 0.82);
+	font-family: inherit;
+	font-size: 24pt;
+	font-weight: 600;
+	font-style: italic ;
+	float: 7px right;
+}
+body { 
+	background-color: rgba(0, 0, 0, 0.8      ); 
+}
+
